@@ -1,0 +1,45 @@
+Date : 2023-12-08 00:04:43
+Directory : c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer
+Total : 10 files,  404 codes, 86 comments, 41 blanks, all 531 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          8 |        282 |         86 |         39 |        407 |
+| JSON       |          2 |        122 |          0 |          2 |        124 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         10 |        404 |         86 |         41 |        531 |
+| . (Files)                                                                               |          2 |        122 |          0 |          2 |        124 |
+| ServerJs                                                                                |          4 |        235 |         76 |         32 |        343 |
+| ServerJs (Files)                                                                        |          1 |          5 |          0 |          2 |          7 |
+| ServerJs\Talk                                                                           |          1 |         38 |         11 |          5 |         54 |
+| ServerJs\login                                                                          |          1 |         44 |         35 |          9 |         88 |
+| ServerJs\mysqlServer                                                                    |          1 |        148 |         30 |         16 |        194 |
+| common                                                                                  |          2 |         16 |          0 |          2 |         18 |
+| utils                                                                                   |          2 |         31 |         10 |          5 |         46 |
+| utils (Files)                                                                           |          1 |         19 |         10 |          4 |         33 |
+| utils\Test                                                                              |          1 |         12 |          0 |          1 |         13 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\ServerRun.js      | JavaScript |          5 |          0 |          2 |          7 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\Talk\talk_ws.js   | JavaScript |         38 |         11 |          5 |         54 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\login\login.js    | JavaScript |         44 |         35 |          9 |         88 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\mysqlServer\db.js | JavaScript |        148 |         30 |         16 |        194 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\common\ResultData.js       | JavaScript |          9 |          0 |          1 |         10 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\common\commonConst.js      | JavaScript |          7 |          0 |          1 |          8 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\package-lock.json          | JSON       |        107 |          0 |          1 |        108 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\package.json               | JSON       |         15 |          0 |          1 |         16 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\utils\JsonResultUtil.js    | JavaScript |         19 |         10 |          4 |         33 |
+| c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\utils\Test\test.js         | JavaScript |         12 |          0 |          1 |         13 |
+| Total                                                                                   |            |        404 |         86 |         41 |        531 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

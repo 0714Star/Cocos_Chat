@@ -1,0 +1,12 @@
+"filename", "language", "JSON", "JavaScript", "comment", "blank", "total"
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\ServerRun.js", "JavaScript", 0, 5, 0, 2, 7
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\Talk\talk_ws.js", "JavaScript", 0, 38, 11, 5, 54
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\login\login.js", "JavaScript", 0, 44, 35, 9, 88
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\ServerJs\mysqlServer\db.js", "JavaScript", 0, 148, 30, 16, 194
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\common\ResultData.js", "JavaScript", 0, 9, 0, 1, 10
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\common\commonConst.js", "JavaScript", 0, 7, 0, 1, 8
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\package-lock.json", "JSON", 107, 0, 0, 1, 108
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\package.json", "JSON", 15, 0, 0, 1, 16
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\utils\JsonResultUtil.js", "JavaScript", 0, 19, 10, 4, 33
+"c:\Users\xhy\Documents\COCOS\Cocos2d\0210367XHY\NodeJsServer\utils\Test\test.js", "JavaScript", 0, 12, 0, 1, 13
+"Total", "-", 122, 282, 86, 41, 531
