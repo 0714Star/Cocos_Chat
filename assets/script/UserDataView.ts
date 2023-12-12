@@ -47,15 +47,14 @@ export class UserDataView extends Component {
      * 取消更新
      */
     cancel() {
-        close()
+        this.close()
     }
     /**
      * 关闭界面
      */
     close() {
-        console.log("A")
-        console.log("B")
-        //this.node.active = false
+
+        this.node.active = false
     }
 }
 

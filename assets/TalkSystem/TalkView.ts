@@ -88,6 +88,14 @@ export class TalkView extends Component {
             userChangeNode = instantiate(this.userChangePrefab)
         } else { userChangeNode.active = true }
     }
+
+
+    /**
+     * 清空输入框信息
+     */
+    clearInputEdit() {
+        this.inputEditBox.string = ""
+    }
 }
 
 
